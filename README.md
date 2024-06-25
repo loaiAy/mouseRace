@@ -7,7 +7,7 @@ The top players determined by the time elapsed until they click all the elements
 
 
 Features
-1. User-friendly GUI - easy to use
+1. User-friendly GUI - fun and easy to use
 2. Timer - keep track of the game duration
 3. Leader board - to store players name and their scores
 4. Dynamic elements - moving elements on the screen
