@@ -6,8 +6,6 @@ import java.util.Random;
 
 /**
  * Helper class to manage different game states and utility methods.
- * 
- *
  */
 public class Helper {
 
